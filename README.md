@@ -2,7 +2,7 @@
 Clean blazor project with tailwind css inited.
 Based upon .NET SDK 6.0 
 
-# Dependacies
+# Dependencies
 Node (npm), and gulp.
 To get gulp do "npm install gulp-cli -g"
 
